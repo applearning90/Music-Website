@@ -1,0 +1,2 @@
+# Samsquantch
+Music Blog
