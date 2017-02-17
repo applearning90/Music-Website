@@ -3,7 +3,7 @@
 /** {border: 1px solid darkgrey;} */
 
 .jumbotron {
-	background-image: url("../img/cafe1.jpg");
+	background-image: url("../cafe1.jpg");
 	background-size: cover;
 	background-position: 50% -115px;
 	padding-top: 0;
