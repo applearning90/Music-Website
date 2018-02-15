@@ -1,2 +1,2 @@
-# Samsquantch
+# Jamista
 Music Blog
